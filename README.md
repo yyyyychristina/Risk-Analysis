@@ -31,7 +31,6 @@ This project is an interactive data analytics dashboard designed to evaluate com
 - DAX (Data Analysis Expressions)
 - Data visualization techniques
 
----
 
 
 ---
